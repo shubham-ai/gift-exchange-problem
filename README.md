@@ -16,7 +16,7 @@ def __init__(self):
 inatialise the value of a and b 
 
 
-##### miniStartInput fucntion
+##### miniStartInput function
 
 This function takes two input first i/p is for number of members and 2nd input is for number of couples 
 
@@ -77,7 +77,7 @@ def uniqueVal(self,a,unique,total):
 
 ##### miniStart function
 
-This function was initially build for miniStartInput function but later the same logic was used by start fucntion 
+This function was initially build for miniStartInput function but later the same logic was used by start function 
 
 it calculates if couples popolation is no more than total number of peoples 
 ```
@@ -100,12 +100,12 @@ def miniStart(self,flag=True):
         else:
             print("please enter valid number of couples")
 ```
-##### filtering fucntion 
+##### filtering function 
 
 this function is used to filter couples index from unique combination index
 ##### start function 
 
-This fucntion takes input as names for e.g a b c d
+This function takes input as names for e.g a b c d
 
 try to make format such as 
 names = 0{
@@ -123,7 +123,7 @@ it will link a with b as a has index 0 and b has index 1
 rest all story is same as miniStart
 
 
-### summber with e.g
+### summery with e.g
 
 
 supposed you have 4 people a b c d 
